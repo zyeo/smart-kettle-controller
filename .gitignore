@@ -1,0 +1,29 @@
+# --- Python general ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# --- Virtual environment ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- OS-specific ---
+.DS_Store
+Thumbs.db
+
+# --- IDEs/editors ---
+.vscode/
+.idea/
+
+# --- Logs & misc ---
+*.log
+*.tmp
+
+# --- Jupyter or notebooks ---
+.ipynb_checkpoints/
