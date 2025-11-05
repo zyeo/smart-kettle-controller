@@ -27,3 +27,6 @@ Thumbs.db
 
 # --- Jupyter or notebooks ---
 .ipynb_checkpoints/
+
+#credentials
+.env
